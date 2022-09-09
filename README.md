@@ -6,3 +6,5 @@ This repository is dedicated to the following plots and charts using the MATLAB 
 - Bubble Charts
 - Box Plots
 - Pie Charts
+
+Please check the .ipynb file to check the code blocks on how-to! 
